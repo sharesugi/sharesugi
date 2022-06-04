@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @sharesugi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sharesugi/sharesugi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#리눅스 명령어 정리
+1.<top>
+  *t시스템의 상태를 전반적으로 가장 빠르게 파악 가능!
+  *옵션 없이 입력하면 interval 간격(기본 3초)으로 화면을 갱신하며 정보를 보여줌
+  *순간의 정보를 확인하려면 -b 옵션 추가(batch 모드)
+  *-n : top 실행 주기 설정(반복 횟수)
+  
